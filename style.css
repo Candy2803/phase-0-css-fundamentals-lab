@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center; 
+}
+nav{
+  text-align: center;
+}
+figure img{
+  margin-left: 200px;
+}
+.p1{
+  margin-left: 300px;
+  width: 800px;
+}
+figcaption{
+  text-align: center;
+}
+div .Correspondence{
+  margin-left: 100px;
+}
